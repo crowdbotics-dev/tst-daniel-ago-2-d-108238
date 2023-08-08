@@ -1,1 +1,3 @@
-export const title = "Hello from module options";
+export default {
+  title: "Hello from module options"
+}
