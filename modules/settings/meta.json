@@ -1,0 +1,13 @@
+{
+  "title": "Settings screen",
+  "description": "Settings screen",
+  "root": "/modules/settings",
+  "schema": {
+    "title": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 12,
+      "pattern": "^[A-Z]"
+    },
+  }
+}
